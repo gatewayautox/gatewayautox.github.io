@@ -1,30 +1,27 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>Gateway Autocross Association</title>
+    <description>The premiere autocross organizers in St. Louis Missouri</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 02 Dec 2020 17:41:48 +0000</pubDate>
+    <lastBuildDate>Wed, 02 Dec 2020 17:41:48 +0000</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>Looking for another 350z</title>
+        <description>&lt;p&gt;The time has come to revive the Project 350z. We are currently in the market for another car, (or V1 of Project350z if @Dozzle will sell it back).&lt;/p&gt;
+&lt;p&gt;Looking for a lower mileage car, manual transmission, preferably an Enthusiast model, but wouldn&amp;#39;t be opposed to a Base this time around.&lt;/p&gt;
+&lt;p&gt;The more local to St. Louis the better.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;  
+</description>
+        <pubDate>Thu, 30 Apr 2020 15:29:20 +0000</pubDate>
+        <link>/looking-for-another-350z</link>
+        <guid isPermaLink="true">/looking-for-another-350z</guid>
+        
+        
       </item>
-    {% endfor %}
+    
   </channel>
 </rss>
