@@ -65,5 +65,5 @@ $.getJSON("https://api.flickr.com/services/feeds/groups_pool.gne?jsoncallback=?"
 
 
 
-<a href="https://www.flickr.com/groups/gatewayautox/"><h3>See more photos and add your own in our Flickr group</h3></a>
+<h3><a href="https://www.flickr.com/groups/gatewayautox/">See more photos and add your own in our Flickr group</a></h3>
 
