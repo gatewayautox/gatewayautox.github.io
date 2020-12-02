@@ -8,9 +8,6 @@
 <loc>/about</loc>
 </url>
 <url>
-<loc>/carsetup</loc>
-</url>
-<url>
 <loc>/categories</loc>
 </url>
 <url>
@@ -21,8 +18,5 @@
 </url>
 <url>
 <loc>/tags</loc>
-</url>
-<url>
-<loc>/videos</loc>
 </url>
 </urlset>
