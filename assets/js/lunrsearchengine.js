@@ -23,7 +23,7 @@ var documents = [{
     "id": 4,
     "url": "/",
     "title": "Home",
-    "body": "      Featured:                                                                                                                                                                                                             Looking for another 350z                              :               The time has come to revive the Project 350z. We are currently in the market for another car, (or V1 of Project350z if @Dozzle will. . . :                                                                       30 Apr 2020                                                                                                                      All Stories:                                                                               Looking for another 350z              :       The time has come to revive the Project 350z. We are currently in the market for another car, (or V1 of Project350z if @Dozzle will sell it back). Looking for. . . :                               30 Apr 2020                                            "
+    "body": "      Featured:                                                                                                                                                                                                             Looking for another autocross                              :               autocross:                                                                       30 Apr 2020                                                                                                                      All Stories:                                                             Looking for another autocross              :       autocross:                               30 Apr 2020                                            "
     }, {
     "id": 5,
     "url": "/photos",
@@ -36,89 +36,84 @@ var documents = [{
     "body": "Videos from the 350z "
     }, {
     "id": 7,
-    "url": "/Articles/itemId/578/Looking-for-another-350z",
-    "title": "",
-    "body": ""
-    }, {
-    "id": 8,
     "url": "/About",
     "title": "",
     "body": ""
     }, {
-    "id": 9,
+    "id": 8,
     "url": "/Car-Setup",
     "title": "",
     "body": ""
     }, {
-    "id": 10,
+    "id": 9,
     "url": "/Videos/Video-Player",
     "title": "",
     "body": ""
     }, {
-    "id": 11,
+    "id": 10,
     "url": "/Home/catpageid/2",
     "title": "",
     "body": ""
     }, {
-    "id": 12,
+    "id": 11,
     "url": "/Home/catpageid/3",
     "title": "",
     "body": ""
     }, {
-    "id": 13,
+    "id": 12,
     "url": "/Home/catpageid/4",
     "title": "",
     "body": ""
     }, {
-    "id": 14,
+    "id": 13,
     "url": "/Home/catpageid/5",
     "title": "",
     "body": ""
     }, {
-    "id": 15,
+    "id": 14,
     "url": "/Home/catpageid/6",
     "title": "",
     "body": ""
     }, {
-    "id": 16,
+    "id": 15,
     "url": "/Home/catpageid/7",
     "title": "",
     "body": ""
     }, {
-    "id": 17,
+    "id": 16,
     "url": "/Home/catpageid/8",
     "title": "",
     "body": ""
     }, {
-    "id": 18,
+    "id": 17,
     "url": "/Home/catpageid/9",
     "title": "",
     "body": ""
     }, {
-    "id": 19,
+    "id": 18,
     "url": "/Photos",
     "title": "",
     "body": ""
     }, {
-    "id": 20,
+    "id": 19,
     "url": "/Videos",
     "title": "",
     "body": ""
     }, {
-    "id": 21,
+    "id": 20,
     "url": "/redirects.json",
     "title": "",
-    "body": "{“/Articles/itemId/578/Looking-for-another-350z”:”/looking-for-another-350z”,”/About”:”/about”,”/Car-Setup”:”/carsetup”,”/Videos/Video-Player”:”/”,”/Home/catpageid/2”:”/”,”/Home/catpageid/3”:”/”,”/Home/catpageid/4”:”/”,”/Home/catpageid/5”:”/”,”/Home/catpageid/6”:”/”,”/Home/catpageid/7”:”/”,”/Home/catpageid/8”:”/”,”/Home/catpageid/9”:”/”,”/Photos”:”/photos”,”/Videos”:”/videos”} "
+    "body": "{“/About”:”/about”,”/Car-Setup”:”/carsetup”,”/Videos/Video-Player”:”/”,”/Home/catpageid/2”:”/”,”/Home/catpageid/3”:”/”,”/Home/catpageid/4”:”/”,”/Home/catpageid/5”:”/”,”/Home/catpageid/6”:”/”,”/Home/catpageid/7”:”/”,”/Home/catpageid/8”:”/”,”/Home/catpageid/9”:”/”,”/Photos”:”/photos”,”/Videos”:”/videos”} "
     }, {
-    "id": 22,
+    "id": 21,
     "url": "/robots.txt",
     "title": "",
     "body": "      Sitemap: {{ “sitemap. xml”   absolute_url }}   "
     }, {
-    "id": 23,
-    "url": "/looking-for-another-350z",
-    "title": "Looking for another 350z",
-    "body": "2020/04/30 - The time has come to revive the Project 350z. We are currently in the market for another car, (or V1 of Project350z if @Dozzle will sell it back). Looking for a lower mileage car, manual transmission, preferably an Enthusiast model, but wouldn&#39;t be opposed to a Base this time around. The more local to St. Louis the better. &nbsp; "
+    "id": 22,
+    "url": "/looking-for-another-autocross",
+    "title": "Looking for another autocross",
+    "body": "2020/04/30 - autocross "
     }];
 
 var idx = lunr(function () {
