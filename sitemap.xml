@@ -11,10 +11,16 @@
 <loc>/categories</loc>
 </url>
 <url>
+<loc>/info/getting-started</loc>
+</url>
+<url>
 <loc>/</loc>
 </url>
 <url>
 <loc>/photos</loc>
+</url>
+<url>
+<loc>/info/rules</loc>
 </url>
 <url>
 <loc>/tags</loc>

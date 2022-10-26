@@ -5,14 +5,13 @@
     <description>The premiere autocross organizers in St. Louis Missouri</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Dec 2020 20:03:56 +0000</pubDate>
-    <lastBuildDate>Wed, 02 Dec 2020 20:03:56 +0000</lastBuildDate>
-    <generator>Jekyll v4.1.1</generator>
+    <pubDate>Wed, 26 Oct 2022 15:56:40 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Oct 2022 15:56:40 +0000</lastBuildDate>
+    <generator>Jekyll v4.3.0</generator>
     
       <item>
         <title>Looking for another autocross</title>
-        <description>autocross
-
+        <description>Are you looking for autocross events? You've come to the right website!
 </description>
         <pubDate>Thu, 30 Apr 2020 15:29:20 +0000</pubDate>
         <link>/looking-for-another-autocross</link>
