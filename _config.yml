@@ -5,7 +5,7 @@ description: "The premiere autocross organizers in St. Louis Missouri"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: ""
-google_analytics: 'UA-69145-42'
+google_analytics: 'G-ETHPVJRCZY'
 disqus: 
 mailchimp-list: 
 include: ["_pages"]
@@ -14,13 +14,13 @@ permalink: /:title/
 # Authors
 authors:
   chris:
-    name: Chris Hammond
-    display_name: Chris Hammond
-    gravatar: bff097b7cc348bebce39ee1c7694d125
+    name: Gateway Autocross
+    display_name: GAX
+    gravatar: 
     email: gatewayautox@christoc.com
-    web: https://www.chrishammond.com
-    twitter: https://twitter.com/christoc
-    description: "Read more at ChrisHammond.com" 
+    web: https://www.gatewayautox.com
+    twitter: https://twitter.com/gatewayautox
+    description: "St. Louis Autocross Experts" 
 
 #  john:
 #    name: John
@@ -66,7 +66,7 @@ kramdown:
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: "disabled"
-adsense-data-ad-client: "ca-pub-3356074518164779"
+adsense-data-ad-client: ""
 adsense-data-ad-slot: ""
 
 # Lazy Images ("enabled" or "disabled")
