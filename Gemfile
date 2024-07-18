@@ -10,7 +10,7 @@ source "https://rubygems.org"
 # If you have any plugins, put them here!
 
 
-gem "jekyll", "~> 4"
+gem "jekyll", "~> 4", ">= 4.3.3"
 
 group :jekyll_plugins do
 #    gem 'wdm', '>= 0.1.0' if Gem.win_platform?
@@ -21,6 +21,6 @@ group :jekyll_plugins do
     gem 'jekyll-archives'
     # gem 'kramdown'
     # gem 'rouge'
-    gem 'jekyll_picture_tag'
+    gem 'jekyll_picture_tag', '>= 2.1.0'
     gem 'jekyll-redirect-from'
 end
